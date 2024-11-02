@@ -1,4 +1,4 @@
-name: "EnOcean MQTT (******* DEPRECATED *******)"
+name: "BFL EnOcean MQTT"
 description: "EnOcean to MQTT bridge for Home Assistant"
 url: "https://github.com/mak-gitdev/HA_enoceanmqtt-addon"
 version: "0.1"
